@@ -1,0 +1,2 @@
+# fikriidn
+Ini Project Pertama
